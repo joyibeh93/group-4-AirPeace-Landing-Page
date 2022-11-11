@@ -256,3 +256,42 @@ h2:hover , h3:hover {
 .footer1 {
     justify-content: flex;
 }
+/*peace advantage*/
+.peace-flex{
+    padding: 5rem;
+    display: flex;
+}
+.peace-buttons{
+    display: flex;
+    padding: 50px;
+    gap: 5px;
+    
+}
+.p-head h2{
+    font-size: 30px;
+    padding: 50px;
+}
+.button1 button{
+    padding: 10px;
+   background-color: #f92323 ;
+   color: white;
+   border: none;
+   font-family: 'roboto' sans-serif;
+}
+.button2 button{
+    padding: 7.5px;
+    background-color: white;
+    color: #014FB4;
+    border:3px solid #014FB4 ;
+    
+}
+
+.peace-paragraph{
+    padding: 50px;
+    display: flex;
+    text-align:justify;
+    font-size: 25px;
+    font-family: 'roboto' sans-serif;
+}
+
+    
