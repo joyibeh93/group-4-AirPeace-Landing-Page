@@ -205,26 +205,34 @@ For Abimbola */
 
 .info1 {
   margin-left: 50px;
-  line-height: 1.75;
+  line-height: 1.7em;
   font-weight: 300;
-  font-size: 15px;
   width: 40%;
+}
+.location-text{
+  font-size: 15px;
 }
 
 .info2 {
-  margin-left: 50px;
-  margin-top: 100px;
+  margin-top: 10px;
+  
+}
+.info2 p{
+  /* line-height: 1em; */
 }
 
 h2 {
   font-size: 45px;
   color: #014fb4;
 }
+h2{
+  font-size: 30px;
+}
 
 .info1 p,
 .info2 p,
 .opt {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 h2:hover,
@@ -309,12 +317,12 @@ textarea {
   height: 120px;
 } */
 
-li {
+.li {
   list-style-type: circle;
   line-height: 3;
 }
 
-li:hover {
+.li:hover {
   opacity: 0.1;
 }
 
