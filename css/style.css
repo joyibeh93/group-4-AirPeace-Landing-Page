@@ -334,6 +334,17 @@ h5:hover {
   width: 45%;
   margin: 50px 20px;
 }
+@media(max-width: 760px){
+
+    .feedback{
+
+        flex-direction: column;
+
+        }
+  }
+
+    
+
 
 .feedback-container_1 img {
   width: 100%;
